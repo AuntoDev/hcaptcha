@@ -17,7 +17,9 @@
     "url": "git+https://github.com/AuntoDev/hcaptcha.git"
   },
   "keywords": [
-    "hcaptcha"
+    "hcaptcha",
+    "security",
+    "robot"
   ],
   "bugs": {
     "url": "https://github.com/AuntoDev/hcaptcha/issues"
